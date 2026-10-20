@@ -1,0 +1,17 @@
+wasi-host-env/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.toc
+*.out
+*.DS_Store
+
+.DS_Store
+__MACOSX/
+wasi-host-env/
+__pycache__/
